@@ -1,3 +1,4 @@
+```html
 <!doctype html>
 <html lang="pt-BR">
 <head>
@@ -693,3 +694,5 @@ render();
 </script>
 </body>
 </html>
+
+```
